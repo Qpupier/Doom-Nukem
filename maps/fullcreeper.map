@@ -1,0 +1,85 @@
+#TEXTURE ./assets/comp.xpm
+#TEXTURE ./assets/brick.xpm
+#TEXTURE ./assets/nuke.xpm
+#TEXTURE ./assets/wall.xpm
+#TEXTURE ./assets/wall1.xpm
+#TEXTURE ./assets/wall2.xpm
+#TEXTURE ./assets/wall3.xpm
+#TEXTURE ./assets/iron.xpm
+#TEXTURE ./assets/skulls.xpm
+#TEXTURE ./assets/octopus.xpm
+#TEXTURE ./assets/menu_back.xpm
+#TEXTURE ./assets/menu_play.xpm
+#TEXTURE ./assets/menu_editor.xpm
+#TEXTURE ./assets/menu_quit.xpm
+#TEXTURE ./assets/death.xpm
+#PLAYER_POSITION 8000 0 4500
+#ACTION 100 0 0, 0 0 0, 0, REPEAT
+ROOM 1 2
+4740 -150 4110 8800 -150 2500 8800 150 2500 4740 150 4110 0
+8800 -150 2500 10500 -150 3740 10500 150 3740 8800 150 2500 0
+10500 -150 3740 9510 -150 6270 9510 150 6270 10500 150 3740 0
+9510 -150 6270 5890 -150 6100 5890 150 6100 9510 150 6270 0
+5890 -150 6100 4740 -150 4110 4740 150 4110 5890 150 6100 0
+#OBJECT assets/creeper.obj, 5670 150 5030, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6230 150 4630, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7430 150 4960, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8080 150 5650, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8900 150 4860, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8490 150 3720, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7810 150 4020, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7740 150 4620, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7150 150 4540, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6900 150 3710, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6850 150 5020, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6750 150 5750, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6320 150 5590, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7620 150 5560, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7950 150 5320, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8250 150 4810, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8840 150 4470, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9030 150 4170, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9430 150 4020, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9560 150 4560, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9320 150 4940, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9170 150 5400, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8790 150 5640, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8570 150 5340, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8380 150 5570, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8430 150 5760, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8070 150 5890, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7590 150 5900, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7290 150 5910, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6940 150 5890, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6930 150 5520, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6850 150 5420, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6540 150 5360, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6330 150 5350, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 5880 150 5350, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6200 150 4890, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6350 150 4780, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6850 150 4410, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7270 150 3870, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7620 150 3510, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8230 150 3290, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8950 150 3220, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9260 150 3360, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9590 150 3650, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9720 150 3830, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9980 150 4160, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9820 150 4740, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9720 150 5260, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9450 150 5900, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9400 150 6000, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 9120 150 5990, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 8040 150 5110, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7830 150 5030, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7580 150 5330, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 7400 150 5450, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 5880 150 3950, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 5770 150 4120, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 5460 150 4530, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 5230 150 4440, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 5770 150 4660, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6150 150 4230, 0 0 0, 0.32
+#OBJECT assets/creeper.obj, 6350 150 4060, 0 0 0, 0.32
